@@ -1,0 +1,9 @@
+Passos para seguir (para a primeira aplicação) :
+> Install Node.js
+> Install Create-React-App
+  (npm install -g create-react-app)
+> Create New Project
+  (create-react-app nome-do-projeto)
+> Run the Project
+  (npm start)
+
